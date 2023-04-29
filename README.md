@@ -7,12 +7,12 @@ inertial, proximity, encoders, and optical, and position tracking.
 * VEX Worlds 2023 Research Division Design Award
 * Create U.S. Open Champions & Skills Finalists
 * Kalahari Classic Design Award
-* EPA State Finalist & Think Award
+* Eastern Pennsylvania State Finalist & Think Award
 * Norristown Invitational Skills Champion
 * Vexmen Invitational Tournament Finalists & Innovate Award
 * DC Knights Qualifier Tournamant & Skills Champion & Build Award
 * Vexmen Showdown Tournamant Champions & Design Award
 # Previous Years
-* Tipping Point Judges Award at VEX Worlds
-* Tipping Point 7th in Skills at VEX Worlds | (Highest Prog: 322) (Highest Driver: 360)
-* Tipping Point: Eastern Pennsylvania Tournament & Skills Champion
+* Tipping Point: VEX Worlds 2022 Math Division Judges Award
+* Tipping Point: 7th in Skills at VEX Worlds | (Highest Prog: 322) (Highest Driver: 360)
+* Tipping Point: Eastern Pennsylvania State Tournament & Skills Champion
