@@ -4,6 +4,7 @@ for the Vex Spin Up season. This project uses PROS, the open source development 
 Vex V5 microcontrollers, as well as algorithms featuring open-loop PID controllers, sensors including 
 inertial, proximity, encoders, and optical, and position tracking.
 # Season
+* VEX Worlds 2023 Research Division Design Award
 * Create U.S. Open Champions & Skills Finalists
 * Kalahari Classic Design Award
 * Vexmen Showdown Tournamant Champions & Design Award
