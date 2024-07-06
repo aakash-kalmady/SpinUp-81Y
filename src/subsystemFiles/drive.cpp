@@ -8,7 +8,7 @@ using namespace std;
 //HELPER FUNCTIONS
 //
 //these functions are to be used both during driver control and autonomous
-//to simplify the code
+//to simplify code
 //
 //******************************************************************************
 
