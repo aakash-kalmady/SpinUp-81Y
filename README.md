@@ -14,5 +14,5 @@ inertial, proximity, encoders, and optical, and position tracking.
 * Vexmen Showdown Tournamant Champions & Design Award
 # Previous Years
 * Tipping Point: VEX Worlds 2022 Math Division Judges Award
-* Tipping Point: 7th in Skills at VEX Worlds | (Highest Prog: 322) (Highest Driver: 360)
+* Tipping Point: 7th in Skills Challenge at VEX Worlds | Highest Programming: 322 (Top 5), Highest Driver: 360
 * Tipping Point: Eastern Pennsylvania State Tournament & Skills Champion
