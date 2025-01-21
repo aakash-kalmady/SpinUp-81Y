@@ -3,7 +3,7 @@ This repository contains all of the code for team 81Y - Cypher, VEXMEN from Down
 for the Vex Spin Up season. This project uses PROS, the open source development platform for 
 Vex V5 microcontrollers, as well as algorithms featuring open-loop PID controllers, sensors including 
 inertial, proximity, encoders, and optical, and position tracking.
-Documentation [(https://docs.google.com/presentation/d/1OscdivgF32htbrxFGETz29NM0Rk6WwyL1AXOGYgji5Q/edit?usp=sharing)]
+[Documentation](https://docs.google.com/presentation/d/1OscdivgF32htbrxFGETz29NM0Rk6WwyL1AXOGYgji5Q/edit?usp=sharing)
 # Spin Up Season
 * VEX Worlds 2023 Research Division Design Award
 * Create U.S. Open Champions & Skills Finalists
